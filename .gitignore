@@ -1,5 +1,0 @@
-/target
-Cargo.lock
-bin
-config.json
-Cross.toml
